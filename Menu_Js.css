@@ -1,0 +1,14 @@
+/* *{
+    margin: 0;
+} */
+.container9{
+    background-color: hotpink;
+    width: 120px;
+}
+.hide{
+    display: none;
+}
+#close{
+    position: absolute;
+    left: 140px;
+}
